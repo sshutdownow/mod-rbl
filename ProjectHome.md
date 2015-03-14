@@ -1,0 +1,2 @@
+Usually [DNS Blacklists](http://en.wikipedia.org/wiki/DNSBL) are used by SMTP servers, but it is also possible to use them for other means, such as ways of checking whether an client's IP address should be allowed or rejected access to an WEB server page.
+There are many scripts on the WEB that allow to send mail either without using  [captcha](http://en.wikipedia.org/wiki/CAPTCHA) or with simple checks, that is used by automated spammer's bot.
